@@ -6,4 +6,4 @@ Step3: $ npm start
 </br>
 Step4: Result
 </br>
-<img src="public/intro.png" alt="result image" style="border: 1px solid"/>
+<div style="border: 1px solid"><img src="public/intro.png" alt="result image"/></div>
